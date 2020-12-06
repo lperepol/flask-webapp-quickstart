@@ -1,3 +1,13 @@
+Pull code
+C:\Build> git clone https://github.com/lperepol/flask-webapp-quickstart.git
+
+
+Creat Environment
+cd flask-webapp-quickstart>py
+C:\Build\flask-webapp-quickstart>py -3 -m venv env
+
+
+
 This tutorial shows you how to create and deploy a Flask web app in an Alpine Linux + NGINX Docker container to Azure Web Apps for Containers using the Azure CLI.
 
 See [VSCODE.md](VSCODE.md) for using Visual Studio Code and the Azure Portal instead.
