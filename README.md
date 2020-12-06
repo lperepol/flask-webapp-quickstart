@@ -1,8 +1,8 @@
-Pull code
+## Pull code
 C:\Build> git clone https://github.com/lperepol/flask-webapp-quickstart.git
 
 
-Creat Environment
+## Creat Environment
 cd flask-webapp-quickstart>py
 py -3.7
 C:\Build\flask-webapp-quickstart>py -3 -m venv env
